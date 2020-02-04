@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tâche-karma.conf",
+      "appliesTo": "my-app/karma.conf.js",
+      "type": "launch"
+    }
+  ]
+}
